@@ -1,0 +1,26 @@
+/* src/components/MainCard.css */
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Card lift effect */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    border-bottom: 2px solid #f0f0f0;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .card-text {
+    font-size: 14px;
+    text-align: center;
+  }
+  
