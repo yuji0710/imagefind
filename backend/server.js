@@ -12,7 +12,7 @@ const router =express.Router();
 // Middleware
 app.use(express.json());
 app.use(cors({
-  origin: "http://localhost:3000", // Allow frontend running on port 3000
+  origin: "https://imagefind.onrender.com/", // Allow frontend running on port 3000
   methods: ["GET", "POST","PUT","DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"]
 }));
