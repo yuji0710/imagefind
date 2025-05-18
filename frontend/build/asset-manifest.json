@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c27daf4.css",
-    "main.js": "/static/js/main.b07ce278.js",
+    "main.js": "/static/js/main.9290728f.js",
     "static/media/product2.jpg": "/static/media/product2.9f7e402effadc395f70e.jpg",
     "static/media/spring.jpg": "/static/media/spring.8f3bad624ebda7287bc0.jpg",
     "static/media/product1.jpg": "/static/media/product1.27434b7de470157edec1.jpg",
@@ -49,10 +49,10 @@
     "static/media/Nail Polish.jpg": "/static/media/Nail Polish.2f6d5bc7a88770703812.jpg",
     "index.html": "/index.html",
     "main.3c27daf4.css.map": "/static/css/main.3c27daf4.css.map",
-    "main.b07ce278.js.map": "/static/js/main.b07ce278.js.map"
+    "main.9290728f.js.map": "/static/js/main.9290728f.js.map"
   },
   "entrypoints": [
     "static/css/main.3c27daf4.css",
-    "static/js/main.b07ce278.js"
+    "static/js/main.9290728f.js"
   ]
 }
